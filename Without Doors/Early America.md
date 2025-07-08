@@ -97,6 +97,8 @@ This project is not connected with [Without Doors](https://www.withoutdoorscurri
 ## Challenge Book List
 
 - [*Carry On, Mr. Bowditch*](https://amzn.to/48o0pmC), by Jean Lee Latham
+  - See also [Nat the Navigator. A Life of Nathaniel Bowditch. For Young Persons by Bowditch
+](https://www.gutenberg.org/ebooks/61092)
   
 - [*David Brainerd: A Love for the Lost*](https://amzn.to/3VJqSaK), by Brian H. Cosby
   
